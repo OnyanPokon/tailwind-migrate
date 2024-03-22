@@ -13,4 +13,5 @@ export default defineConfig({
       },
     }),
   ],
+  base: '/testinghaha.netlify.app'
 });
